@@ -1,5 +1,5 @@
 # Olá, me chamo Lucas Gabriel 👋
 ---
-| No momento estou iniciando meus estudos de programação|
+| No momento estou iniciando meus estudos de programação!|
 | :---: |
-| ![loading](https://pixabay.com/pt/gifs/carregando-anima%c3%a7%c3%a3o-rodar-destaques-7528/) |
+| ![loading](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZpNGdqNnp3cnZ2dWZuM2Q1c295a3B6czZvdnZpb3N4dHQ3NXZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IzigGVSs9fHjug20Mq/giphy.gif) |
