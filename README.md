@@ -10,9 +10,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ---
-<h2 <align="center">🌐 Contact me</h2>
+<h2 align="center">🌐 Contact me</h2>
 <p align="center">
-  <a href="www.linkedin.com/in/lucas-gabriel-costa-b3a59739b" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-gabriel-costa-b3a59739b//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:lucasgc2510@gmail.com" target="_blank">
