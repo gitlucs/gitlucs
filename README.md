@@ -1,6 +1,4 @@
-<div align="center">
-  <h1>Hi, my name is Lucas Gabriel 👋</h1>
-</div>
+<h1 align="center">Hi, my name is Lucas Gabriel 👋</h1>
 
 ---
 ## 🛠️ Technologies
