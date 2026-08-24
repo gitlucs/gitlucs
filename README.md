@@ -1,5 +1,5 @@
 <div align="center">
-# Hi, my name is Lucas Gabriel 👋
+  <h1>Hi, my name is Lucas Gabriel 👋</h1>
 </div>
 
 ---
